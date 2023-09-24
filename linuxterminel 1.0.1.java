@@ -116,7 +116,7 @@ public class Main {
             }
             //显示语言
             else if (dir.equals("code")){
-                System.out.println("This is a java app , A low linux terminal ， 作者:大乙猫");
+                System.out.println("This is a java app , A low linux terminal");
                 System.out.println("|||   |||   ||||||||||   ||   ||    |||    |||");
                 System.out.println("|||         |||    |||   ||   ||     |||  ||| ");
                 System.out.println("|||   |||   |||    |||   ||   ||      ||||||  ");
